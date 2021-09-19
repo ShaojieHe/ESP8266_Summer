@@ -1,0 +1,3 @@
+[submodule "lib/ESP8266_Heweather"]
+	path = lib/ESP8266_Heweather
+	url = git@github.com:ShaojieHe/ESP8266_Heweather.git
